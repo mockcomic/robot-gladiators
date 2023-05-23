@@ -1,12 +1,14 @@
-UC Berkeley Fullstack Bootcamp
+# UC Berkeley Fullstack Bootcamp
 
-# robot-gladiators
- 
-## Purpose
-A round based game using Javascipt.
+## Robot-Gladiators
 
-## Built With
-* JS
+### Purpose
 
-## Website
- https://mockcomic.github.io/robot-gladiators/
+A round-based game using JavaScript.
+
+### Built With
+* JavaScript (JS)
+
+### Website
+
+[Robot-Gladiators](https://mockcomic.github.io/robot-gladiators/)
